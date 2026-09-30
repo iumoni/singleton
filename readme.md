@@ -77,9 +77,9 @@ public class AppConfig {
 
 **Actividad:** modifica la clase `AppConfig` para que nadie pueda crear nuevas instancias con `new` y para que todas las partes de la aplicación usen la misma referencia.
 
-- [ ] El constructor de `AppConfig` es privado.
-- [ ] Existe un campo `instance` `static` y `final`.
-- [ ] El método `getInstance()` devuelve la única instancia disponible.
+- [x] El constructor de `AppConfig` es privado.
+- [x] Existe un campo `instance` `static` y `final`.
+- [x] El método `getInstance()` devuelve la única instancia disponible.
 
 ## 3. Actualizar el cliente
 
