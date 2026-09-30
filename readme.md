@@ -45,7 +45,7 @@ public class Main {
 
 **Actividad:** identifica qué problema aparece al crear dos objetos distintos para la misma configuración.
 
-- [ ] Revisé el problema inicial y entiendo por qué `AppConfig` debería tener una sola instancia.
+- [x] Revisé el problema inicial y entiendo por qué `AppConfig` debería tener una sola instancia.
 
 ## 2. Convertir `AppConfig` en Singleton
 
